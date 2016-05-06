@@ -1,0 +1,2 @@
+module LaboratoryWorkHelper
+end
